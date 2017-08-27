@@ -1,0 +1,4 @@
+C:\Users\fabri\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Fabrizio Brioccia\ASUExtendedVS\1.0\\ASUExtendedVS.dll
+C:\Users\fabri\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Fabrizio Brioccia\ASUExtendedVS\1.0\\ASUExtendedVS.pdb
+C:\Users\fabri\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Fabrizio Brioccia\ASUExtendedVS\1.0\\ASUExtendedVS.pkgdef
+C:\Users\fabri\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Fabrizio Brioccia\ASUExtendedVS\1.0\\extension.vsixmanifest
